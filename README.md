@@ -14,22 +14,11 @@ Scanner is a class contained in the java.util package. This class functions as a
 
 
 What I created and learned
+<ul>
+  <li>I learned to use variables dan data types</li>
+  <li>Learn to call and use Scanner Package</li>
+  <li>Learned conditioning using if else</li>
+  <li>Displaying output using System.out.print & System.out.println</li>
+  <li>Creating arrays in java programming language</li>
+</ul>
 
-```bash
-  I learned to use variables and data types
-```
-```bash
-Learn to call and use Scanner Package
-```
-
-```bash
-Learned conditioning using if else
-```
-
-```bash
-Displaying output using System.out.print & System.out.println
-```
-
-```bash
-Creating arrays in java programming language
-```

@@ -1,5 +1,5 @@
 
-# Scanner Java 
+# Algorithms and Data structures
 This repository is the code when I practiced algorithms & data structures using the java programming language
 
 

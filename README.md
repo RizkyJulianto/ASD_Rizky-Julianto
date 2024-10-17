@@ -6,7 +6,7 @@ This repository is the code when I practiced algorithms & data structures using 
 
 
 ## Lessons
-Scanner is a class contained in the java.util package. This class functions as a tool to take input from the user, usually from the keyboard. Imagine Scanner as a tool that is ready to receive data that we type in the terminal or console, then convert it into a data format that we can process in our program.
+ASD_RizkyJulianto is a repository that contains various implementations of algorithms and data structures in Java. This repository was created as a documentation of my learning journey in understanding fundamental concepts in the field of algorithms and data structures. In this repository, you will find a variety of projects, ranging from simple implementations to simple explanations.
 
 
 

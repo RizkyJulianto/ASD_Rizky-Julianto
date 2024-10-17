@@ -23,3 +23,11 @@ ASD_RizkyJulianto is a repository that contains various implementations of algor
   <li>Displaying output using System.out.print & System.out.println</li>
   <li>Creating arrays in java programming language</li>
 </ul>
+
+<h2>What I created and learn Praktikum 3 :</h2>
+<ul>
+  <li>I learned about arithmetic operators</li>
+  <li>Learned about assignment operators</li>
+  <li>Learned about comparison operators</li>
+  <li>Create simple math programs based on pseudocode algorithms</li>
+</ul>
